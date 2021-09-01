@@ -1,4 +1,4 @@
-!pip install selenium
+pip install selenium
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 s=webdriver.Chrome(executable_path=r'F:\New folder\chromedriver.exe')
