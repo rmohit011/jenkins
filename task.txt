@@ -1,0 +1,13 @@
+1. Implemet Logger
+2. Use Cassandra instead MongoDB
+3. Do Proof reading of code
+4. if possible then only work on UI part (not mandatory)
+5. Add a graph for analytics (Product based)
+	ex:- product--> oppo
+			grouping of reviews in graph, rating wise graph
+		by using a plotly
+6. Deployment in AWS, heroku, Azure
+From Shivansh Jayara to All Panelists:  05:07 PM
+graph bhi webpage pe display karna hai
+From lingarajan.r to All Panelists:  05:07 PM
+sure
