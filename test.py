@@ -1,7 +1,7 @@
 
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
-s=webdriver.Chrome(executable_path=r'F:\New folder\chromedriver.exe')
+s=webdriver.Chrome(executable_path=r'C:\chromedriver.exe')
 s.get(r"http://demo.automationtesting.in/Windows.html")
 #//*[@id="Tabbed"]/a/button
 print(type(s))
